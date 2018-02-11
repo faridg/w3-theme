@@ -20,6 +20,13 @@ color: #333;
 img{
 width:100%;
 }
+
 .desc{
 text-align: center;
+}
+
+footer{
+text-align: center;
+margin-top: 40px;
+border-top: #333 solid 1px;
 }
